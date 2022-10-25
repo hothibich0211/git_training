@@ -1,0 +1,21 @@
+.chung{
+    background-color:cadetblue;
+    color: floralwhite;
+}
+#black{
+    background-color: black;
+    height: 74px;
+    padding: 12px 20px;
+}
+#green{
+    background-color: green;
+}
+#red{
+    background-color: red;
+    position:fixed;
+    top:0px;
+    right:0px;
+    word-wrap:break-word;
+    width:100px;
+    height:120px;
+}
